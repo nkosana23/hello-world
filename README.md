@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub.
 
 Additional Github changes to show pull, fetch, & merge.
+
+Changes to push a branch from local to remote repository (GitHub).
